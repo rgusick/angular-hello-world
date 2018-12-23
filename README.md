@@ -1,5 +1,8 @@
 # angular-hello-world
 
+Followed Mosh Hamedani CODING MADE SIMPLE tutorial:
+https://programmingwithmosh.com/angular/angular-4-tutorial/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
 ## Development server
